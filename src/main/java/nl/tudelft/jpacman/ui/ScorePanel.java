@@ -8,8 +8,8 @@ import java.util.Map;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
 
-import CraeyeMathieu.ChoiceMonster;
 import nl.tudelft.jpacman.level.Player;
+import nl.tudelft.jpacman.multiplayers.ChoiceMonster;
 
 /**
  * A panel consisting of a column for each player, with the numbered players on

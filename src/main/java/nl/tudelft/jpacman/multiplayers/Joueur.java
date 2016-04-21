@@ -1,4 +1,4 @@
-package CraeyeMathieu;
+package nl.tudelft.jpacman.multiplayers;
 
 import java.awt.List;
 import java.util.ArrayList;

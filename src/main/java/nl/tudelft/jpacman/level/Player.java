@@ -2,11 +2,11 @@ package nl.tudelft.jpacman.level;
 
 import java.util.Map;
 
-import CraeyeMathieu.ChoiceMonster;
 import nl.tudelft.jpacman.board.Direction;
 import nl.tudelft.jpacman.board.Square;
 import nl.tudelft.jpacman.board.Unit;
 import nl.tudelft.jpacman.fruit.Fruit;
+import nl.tudelft.jpacman.multiplayers.ChoiceMonster;
 import nl.tudelft.jpacman.sprite.AnimatedSprite;
 import nl.tudelft.jpacman.sprite.Sprite;
 
